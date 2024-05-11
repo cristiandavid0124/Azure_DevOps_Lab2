@@ -4,3 +4,6 @@ despues Dado que la wiki se almacena como un repositorio de Git, los permisos se
 ![image-1](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/898a76fd-f492-4cfa-970c-5dd0a903d093)
 Buscamos el panel Páginas y agregamos una subpagina
 ![image-2](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/16a1cc18-fd8d-46dd-be6f-87f29b58ab30)
+guardamos con revision 
+![image-3](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/d182d8c2-2e1e-4315-9b49-2f9198667934)
+
