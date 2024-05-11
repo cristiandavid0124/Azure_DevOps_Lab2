@@ -12,6 +12,9 @@ ahora podemos veer las revisiones de lo que se a cambiado![image-5](https://gith
 ![image-6](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/4a40707b-8d53-4977-b788-917175ac9967)
 cambiamos de orden 
 ![image-7](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/ea5510b5-e52d-41f1-882f-5b08d2479491)
+creamos un nuevo repositorio y cambiamos el nombre 
+![image-8](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/2d7fbb99-04e7-48e2-bd05-547d6b33ad3e)
+
 
 
 
