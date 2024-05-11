@@ -20,6 +20,7 @@ selecionamos los documentos
 creamos un nuevo nombre de carpeta de "Upcoming-events" y un nuevo nombre de archivo de "January-events.md". 
 ![image-10](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/19ec2ac9-12e9-4dcf-ad3e-8bce8853f0b7)
 
+hacemos lo mismo con february ![image-11](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/35789493-8dce-45d5-ba23-55694eeaa4bd)
 
 
 
