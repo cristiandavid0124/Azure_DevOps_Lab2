@@ -9,6 +9,8 @@ guardamos con revision
 añadimos una nueva subpage 
 ![image-4](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/55877f24-9656-4fbb-9d50-b4fa06e699cd)
 ahora podemos veer las revisiones de lo que se a cambiado![image-5](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/b69e9c89-b3b6-4f3a-b795-5e5fc3563629)
+![image-6](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/4a40707b-8d53-4977-b788-917175ac9967)
+
 
 
 
