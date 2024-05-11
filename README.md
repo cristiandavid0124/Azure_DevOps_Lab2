@@ -14,6 +14,9 @@ cambiamos de orden
 ![image-7](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/ea5510b5-e52d-41f1-882f-5b08d2479491)
 creamos un nuevo repositorio y cambiamos el nombre 
 ![image-8](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/2d7fbb99-04e7-48e2-bd05-547d6b33ad3e)
+selecionamos los documentos 
+![image-9](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/a8c78a6b-150d-455b-897b-dfd85d557296)
+
 
 
 
