@@ -6,4 +6,7 @@ Buscamos el panel Páginas y agregamos una subpagina
 ![image-2](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/16a1cc18-fd8d-46dd-be6f-87f29b58ab30)
 guardamos con revision 
 ![image-3](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/d182d8c2-2e1e-4315-9b49-2f9198667934)
+añadimos una nueva subpage 
+![image-4](https://github.com/cristiandavid0124/Azure_DevOps_Lab2/assets/111905823/55877f24-9656-4fbb-9d50-b4fa06e699cd)
+
 
